@@ -29,8 +29,8 @@ install Active Directory and Domain Services  <br/>
 <img src="https://i.imgur.com/hOLXilS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an Organizational Unit for Domain Admins using AD: <br/>
+<img src="https://i.imgur.com/HwUz0U9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
