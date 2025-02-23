@@ -19,7 +19,10 @@ Project consists of depolying two Virtual Machines through (Oracle Virtual Box) 
 
 <p align="center">
 Configure Ipv4 for the Internal Network (Domain Controller): <br/>
-<img src=https://imgur.com/a/M0kixeR />
+<img src="https://imgur.com/gg5sdib"/>
+<br />
+
+ 
 <br />
 <br />
 Select the disk:  <br/>
