@@ -33,8 +33,8 @@ Create an Organizational Unit for Domain Admins using AD: <br/>
 <img src="https://i.imgur.com/HwUz0U9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Windows 10 client  on virtual network to be able to access the DC network  <br/>
+<img src="https://i.imgur.com/PQIogLH.png"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
