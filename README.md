@@ -1,7 +1,9 @@
 <h1>Hi, I'm Pooya! <br/><a href="https://github.com/Pooyaadel/Pooyaadel">Information Systems Undergraduate </a>, <a href="https://github.com/Pooyaadel/Pooyaadel"> Aspiring Information Technology Professional</a>,  </h1>
 
-<h2>👨‍💻HomeLab Projects:</h2>
-- [Active Directory Home Lab](https://github.com/Pooyaadel/ActiveDirectory-Home-Lab
+<h2>👨‍💻 Home Lab Projects:</h2>
+
+- <b>Setting up Home Lab environment to Practice Active Directory / Add users with PowerShell Script</b>
+  - [Active Directory Home Lab](https://github.com/Pooyaadel/ActiveDirectory-Home-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]:https://www.linkedin.com/in/pooya-adelinia-it/
