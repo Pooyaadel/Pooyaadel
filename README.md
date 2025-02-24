@@ -26,11 +26,12 @@ Configure Ipv4 for the Internal Network (Domain Controller): <br/>
 <br />
 <br />
 install Active Directory and Domain Services:  <br/>
-<img src="https://i.imgur.com/hOLXilS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hOLXilS.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
 <br />
 <br />
 Create an Organizational Unit for Domain Admins using AD: <br/>
-<img src="https://i.imgur.com/HwUz0U9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HwUz0U9.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
+
 <br />
 <br />
 Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Windows 10 client on virtual network to be able to access the DC network:  <br/>
@@ -40,18 +41,22 @@ Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Win
  Using a PowerShell Script to add in users into Active Directory:
 
  <br/>
-<img src="https://i.imgur.com/zFifLaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zFifLaP.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
 <br />
 <br />
  Create Windows 10 Client Server VM:  <br/>
-<img src="https://i.imgur.com/GG7Rjks.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GG7Rjks.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+
  Observe Confirmation of Client Server successfully joined into the DC:
+<img src="https://i.imgur.com/DShFjwt.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
+ 
 <br />
 <br />
+
+
 
 </p>
 
