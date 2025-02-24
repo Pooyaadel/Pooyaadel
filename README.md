@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pooya! <br/><a href="https://github.com/Pooyaadel/Pooyaadel">Information Systems Undergraduate </a>, <a href="https://github.com/Pooyaadel/Pooyaadel"> Aspiring Information Technology Professional</a>,  </h1>
+<h1>Hi, I'm Pooya! <br/><a href="https://github.com/Pooyaadel/Pooyaadel">Information Systems Undergraduate </a>| <a href="https://github.com/Pooyaadel/Pooyaadel"> Aspiring Information Technology Professional</a>  </h1>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
