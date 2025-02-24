@@ -1,6 +1,6 @@
 <h1> Active Directory Home Lab <h1/>
 <h2>Description</h2>
-Project consists of depolying two Virtual Machines through (Oracle Virtual Box) with one machine being the Domain Controller and the other machine being a Client.
+Project consists of using VirtualBox to set up a HomeLab Environment to practice running Active Directory, Configuring DHCP for the Domain Controller, Adding users to AD through a Powershell Script, and lasty joining in the Domain (DC) with the client server machine.
 <br />
 
 
@@ -25,7 +25,7 @@ Configure Ipv4 for the Internal Network (Domain Controller): <br/>
  
 <br />
 <br />
-install Active Directory and Domain Services:  <br/>
+Install Active Directory and Domain Services:  <br/>
 <img src="https://i.imgur.com/hOLXilS.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
 <br />
 <br />
@@ -56,7 +56,8 @@ Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Win
 <br />
 <br />
 
-
+Testing out by signing into Client Server with random name from account creation script in PowerShell (Suzanne Snell) 
+<img src="https://i.imgur.com/vB4qV42.png" height="80%" width="80%" alt="Active Directory HomeLab"/>
 
 </p>
 
