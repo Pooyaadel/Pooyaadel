@@ -49,6 +49,10 @@ Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Win
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Observe Confirmation of Client Server successfully joined into the DC:
+<br />
+<br />
+
 </p>
 
 <!--
