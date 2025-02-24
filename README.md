@@ -25,7 +25,7 @@ Configure Ipv4 for the Internal Network (Domain Controller): <br/>
  
 <br />
 <br />
-install Active Directory and Domain Services  <br/>
+install Active Directory and Domain Services:  <br/>
 <img src="https://i.imgur.com/hOLXilS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -33,16 +33,18 @@ Create an Organizational Unit for Domain Admins using AD: <br/>
 <img src="https://i.imgur.com/HwUz0U9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Windows 10 client  on virtual network to be able to access the DC network  <br/>
+Install RAS(Remote Access Service)/NAT(Network Address Translation) to allow Windows 10 client on virtual network to be able to access the DC network:  <br/>
 <img src="https://i.imgur.com/PQIogLH.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Using a PowerShell Script to add in users into Active Directory:
+
+ <br/>
+<img src="https://i.imgur.com/zFifLaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Create Windows 10 Client Server VM:  <br/>
+<img src="https://i.imgur.com/GG7Rjks.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
